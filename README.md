@@ -43,4 +43,4 @@ This creates the production bundle in dist.
 - data/multiple_alignments/
 - data/stamp_b_factor_residue_pdbs_corrected/
 
-The app loads the two thermodynamics CSV files at startup and uses the other data folders for linked images and structure files when you select nodes. 
+The app loads the two thermodynamics CSV files at startup and uses the other data folders for linked images and structure files when you select nodes.
